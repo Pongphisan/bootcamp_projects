@@ -1,4 +1,4 @@
-# ฺBootcamp Projects
+# Bootcamp Projects
 
 Data science bootcamp wtih 'adToy'
 
